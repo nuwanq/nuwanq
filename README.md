@@ -91,7 +91,7 @@
 
 ![Nuwan's github stats](https://github-readme-stats.vercel.app/api?username=nuwanq&count_private=true&show_icons=true&theme=gruvbox)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuwanq&theme=gruvbox&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nuwanq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
