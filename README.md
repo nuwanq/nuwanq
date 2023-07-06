@@ -85,13 +85,5 @@
 
 </h4>  
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
-<br/>
-
-![Nuwan's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=nuwanq&count_private=true&show_icons=true&theme=gruvbox)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nuwanq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
