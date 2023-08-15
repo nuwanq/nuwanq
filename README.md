@@ -20,6 +20,8 @@
 <br/>
 <br/>
 <br/>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 <br/>
 <br/>
 
