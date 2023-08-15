@@ -21,6 +21,15 @@
 <br/>
 <br/>
 <!--START_SECTION:badges-->
+[![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/fed9f42f-0d59-4946-9d62-288239a1c9d7 "Well-Architected Proficient")
+[![AWS Knowledge: Object Storage](https://images.credly.com/size/110x110/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png)](http://www.credly.com/badges/56e43882-f109-4a2c-b903-3d848736112c "AWS Knowledge: Object Storage")
+[![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/44659366-bd91-4583-87ae-c1e73b73d67e "AWS Knowledge: File Storage")
+[![AWS Knowledge: Serverless](https://images.credly.com/size/110x110/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](http://www.credly.com/badges/0d557dbd-3bd0-404d-a5d4-a991eb32d070 "AWS Knowledge: Serverless")
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/ffb7f8d2-9a53-4838-8c4d-957896781981 "AWS Knowledge: Cloud Essentials")
+[![Fundamentals of Agile Project Management](https://images.credly.com/size/110x110/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png)](http://www.credly.com/badges/75d88451-0e4a-407e-97ca-ff308f8ce7ea "Fundamentals of Agile Project Management")
+[![Fundamentals of Predictive Project Management](https://images.credly.com/size/110x110/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png)](http://www.credly.com/badges/8b78f7cf-235c-45aa-a60e-ee41aa11cb24 "Fundamentals of Predictive Project Management")
+[![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/f9e05980-a13e-4e38-a26b-5d045787eb88 "AWS Knowledge: Architecting")
+[![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](http://www.credly.com/badges/24612b00-bf6d-483e-b46c-cbb81fbcfd6f "Scrum Foundation Professional Certification - SFPC™")
 <!--END_SECTION:badges-->
 <br/>
 <br/>
