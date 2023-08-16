@@ -21,6 +21,7 @@
 <br/>
 <br/>
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Block Storage](https://images.credly.com/size/110x110/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png)](http://www.credly.com/badges/6a16fac1-4791-4080-8247-b5a7f60425b3 "AWS Knowledge: Block Storage")
 [![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/fed9f42f-0d59-4946-9d62-288239a1c9d7 "Well-Architected Proficient")
 [![AWS Knowledge: Object Storage](https://images.credly.com/size/110x110/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png)](http://www.credly.com/badges/56e43882-f109-4a2c-b903-3d848736112c "AWS Knowledge: Object Storage")
 [![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/44659366-bd91-4583-87ae-c1e73b73d67e "AWS Knowledge: File Storage")
