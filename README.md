@@ -24,6 +24,8 @@
 <br/>
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuwanq&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
